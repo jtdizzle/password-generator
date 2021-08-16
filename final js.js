@@ -132,5 +132,9 @@ var copy = document.querySelector("#copy");
 copy.addEventListener("click", function () {
     copyPassword();
 });
+function copyPassword() {
+    document.getElementById("password").select();
+    document.execCommand("Copy");
+    alert("Password copied to clipboard!");
 
 }
