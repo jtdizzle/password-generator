@@ -1,5 +1,5 @@
 # password-generator
-08-14-2021
+08-14-2021  
 https://jtdizzle.github.io/password-generator/
 ![Screenshot 2021-08-16 214344](https://user-images.githubusercontent.com/87590712/129650473-e7850955-0171-4fce-9a15-043c9bfbab2a.png)
 
