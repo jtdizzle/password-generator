@@ -1,7 +1,7 @@
 # password-generator
 08-14-2021  
 https://jtdizzle.github.io/password-generator/
-![Screenshot 2021-08-16 214344](https://user-images.githubusercontent.com/87590712/129650473-e7850955-0171-4fce-9a15-043c9bfbab2a.png)
+![Screenshot 2021-11-28 230128 password gen](https://user-images.githubusercontent.com/87590712/143806964-a8b06d2c-b128-4204-9eee-95cdd38b577b.jpg)
 
 The acceptance Criteria for this project are as follows:  
 GIVEN I need a new, secure password  
